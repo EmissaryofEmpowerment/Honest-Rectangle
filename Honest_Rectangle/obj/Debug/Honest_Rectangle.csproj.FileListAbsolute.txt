@@ -1,0 +1,7 @@
+C:\Users\Armstrong\Source\Repos\Honest_Rectangle\Honest_Rectangle\bin\Debug\Honest_Rectangle.exe.config
+C:\Users\Armstrong\Source\Repos\Honest_Rectangle\Honest_Rectangle\bin\Debug\Honest_Rectangle.exe
+C:\Users\Armstrong\Source\Repos\Honest_Rectangle\Honest_Rectangle\bin\Debug\Honest_Rectangle.pdb
+C:\Users\Armstrong\Source\Repos\Honest_Rectangle\Honest_Rectangle\obj\Debug\Honest_Rectangle.csprojAssemblyReference.cache
+C:\Users\Armstrong\Source\Repos\Honest_Rectangle\Honest_Rectangle\obj\Debug\Honest_Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\Armstrong\Source\Repos\Honest_Rectangle\Honest_Rectangle\obj\Debug\Honest_Rectangle.exe
+C:\Users\Armstrong\Source\Repos\Honest_Rectangle\Honest_Rectangle\obj\Debug\Honest_Rectangle.pdb

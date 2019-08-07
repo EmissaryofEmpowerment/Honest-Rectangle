@@ -1,2 +1,2 @@
-# Honest-Rectangle
-This program receives a range of integers and produces possible length/width values that meet the specified criteria
+# Honest_Rectangle_8.6.19
+This program gives returns possible values for the height/width of a rectangle  given a range of integers.
